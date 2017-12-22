@@ -1,7 +1,7 @@
 var buttonTranslet = $('#translate-joke');
 var parTrans = $('#transleted-joke');
 
-var url = 'http://api.icndb.com/jokes/random';
+var url = 'https://api.icndb.com/jokes/random';
 var button = $('#get-joke');
 var paragraph = $('#joke');
 
